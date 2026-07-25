@@ -1,0 +1,11 @@
+{
+  "name": "stripe-app",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
